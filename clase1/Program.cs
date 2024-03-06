@@ -1,2 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("yo estuve aqui");
+Console.WriteLine("erick estuvo aqui");
